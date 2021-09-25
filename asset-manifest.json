@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fast-Typing/static/css/main.20d1b856.chunk.css",
+    "main.js": "/Fast-Typing/static/js/main.3149e925.chunk.js",
+    "main.js.map": "/Fast-Typing/static/js/main.3149e925.chunk.js.map",
+    "runtime-main.js": "/Fast-Typing/static/js/runtime-main.2a9e7564.js",
+    "runtime-main.js.map": "/Fast-Typing/static/js/runtime-main.2a9e7564.js.map",
+    "static/js/2.96b9d67b.chunk.js": "/Fast-Typing/static/js/2.96b9d67b.chunk.js",
+    "static/js/2.96b9d67b.chunk.js.map": "/Fast-Typing/static/js/2.96b9d67b.chunk.js.map",
+    "static/js/3.6a8b1c69.chunk.js": "/Fast-Typing/static/js/3.6a8b1c69.chunk.js",
+    "static/js/3.6a8b1c69.chunk.js.map": "/Fast-Typing/static/js/3.6a8b1c69.chunk.js.map",
+    "index.html": "/Fast-Typing/index.html",
+    "static/css/main.20d1b856.chunk.css.map": "/Fast-Typing/static/css/main.20d1b856.chunk.css.map",
+    "static/js/2.96b9d67b.chunk.js.LICENSE.txt": "/Fast-Typing/static/js/2.96b9d67b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a9e7564.js",
+    "static/js/2.96b9d67b.chunk.js",
+    "static/css/main.20d1b856.chunk.css",
+    "static/js/main.3149e925.chunk.js"
+  ]
+}
